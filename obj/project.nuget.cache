@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+vkIxnZCxnI=",
+  "dgSpecHash": "Hbuk3MD1Uk8=",
   "success": true,
-  "projectFilePath": "/Users/husseingure/Desktop/Consuming GitHub Actions Workflows/dev/sampleapp/sampleapp/sampleapp.csproj",
+  "projectFilePath": "/Users/husseingure/Desktop/Github Actions Course/consuming-github-actions-workflows/dev/sampleapp/sampleapp/sampleapp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

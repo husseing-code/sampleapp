@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/husseingure/Desktop/Consuming GitHub Actions Workflows/dev/sampleapp/sampleapp/sampleapp.csproj",
+      "projectUniqueName": "/Users/husseingure/Desktop/Github Actions Course/consuming-github-actions-workflows/dev/sampleapp/sampleapp/sampleapp.csproj",
       "projectName": "sampleapp",
-      "projectPath": "/Users/husseingure/Desktop/Consuming GitHub Actions Workflows/dev/sampleapp/sampleapp/sampleapp.csproj",
+      "projectPath": "/Users/husseingure/Desktop/Github Actions Course/consuming-github-actions-workflows/dev/sampleapp/sampleapp/sampleapp.csproj",
       "packagesPath": "/Users/husseingure/.nuget/packages/",
-      "outputPath": "/Users/husseingure/Desktop/Consuming GitHub Actions Workflows/dev/sampleapp/sampleapp/obj/",
+      "outputPath": "/Users/husseingure/Desktop/Github Actions Course/consuming-github-actions-workflows/dev/sampleapp/sampleapp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/husseingure/.nuget/NuGet/NuGet.Config"
