@@ -38,7 +38,7 @@ jobs:
     needs: build-job
     env:
       package-name: .net-app
-      app-name: sampleappgh
+      app-name: azureapphg
       deployment-slot: production
       
     steps:
@@ -55,4 +55,4 @@ jobs:
           app-name: ${{ env.app-name }}
           slot-name: ${{ env.deployment-slot }}
           package: .
-          publish-profile: ${{ secrets.AZURE_PUBLISH_PROFILES }}
+          publish-profile: ${{ secrets.AZURE_PUBLISH_PROFILE }}
